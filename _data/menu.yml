@@ -4,11 +4,10 @@
 entries:
   - title: me
     entries:
-      - title: Arborea Ramdhan Feriyanto
+      - title: email me :)
         url: mailto:arborea.arf@gmail.com
       - title: github repo
         url: https://github.com/ranar1808
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
