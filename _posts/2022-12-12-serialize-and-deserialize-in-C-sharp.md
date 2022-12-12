@@ -1,8 +1,8 @@
 ---
 layout: archive
 which_category: code
-title: serialize and deserialize in C sharp
 ---
+# serialize and deserialize in C sharp
 
 Are you working with JSON data in your .NET Core applications? If so, you'll need to know how to serialize and deserialize JSON to convert your objects to and from JSON-formatted strings.
 
