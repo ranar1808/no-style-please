@@ -1,3 +1,8 @@
+---
+layout: post
+category: code
+---
+
 Are you working with JSON data in your .NET Core applications? If so, you'll need to know how to serialize and deserialize JSON to convert your objects to and from JSON-formatted strings.
 
 JSON (JavaScript Object Notation) is a popular data interchange format that is used to transmit data between systems. In .NET Core, the System.Text.Json namespace provides classes for serializing and deserializing JSON data.
